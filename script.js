@@ -1,6 +1,6 @@
 (() => {
   const API_KEY = 'fca_live_SCxDs21hm80tnuAFRxBBUhLpDZTu7OiHKlxlz8Ck';
-  const API_BASE_URL = 'https://api.exchangerate.host/latest';
+  const API_BASE_URL = 'https://api.freecurrencyapi.com/v1/latest';
 
   const fromCurrency = document.getElementById('fromCurrency');
   const toCurrency = document.getElementById('toCurrency');
